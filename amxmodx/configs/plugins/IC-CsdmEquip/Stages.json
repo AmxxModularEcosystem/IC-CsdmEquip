@@ -1,0 +1,68 @@
+[
+    {
+        "Title": "Пистолет",
+        "Items": [
+            {
+                "Title": "Deagle",
+                "Items": {
+                    "Item": "Weapon",
+                    "Name": "weapon_deagle"
+                }
+            },
+            {
+                "Title": "USP",
+                "Items": {
+                    "Item": "Weapon",
+                    "Name": "weapon_usp"
+                }
+            },
+            {
+                "Title": "Glock",
+                "Items": {
+                    "Item": "Weapon",
+                    "Name": "weapon_glock"
+                }
+            },
+            {
+                "Title": "P250",
+                "Items": {
+                    "Item": "Weapon",
+                    "Name": "weapon_p250"
+                }
+            }
+        ]
+    },
+    {
+        "Title": "Основное",
+        "Items": [
+            {
+                "Title": "AK47",
+                "Items": {
+                    "Item": "Weapon",
+                    "Name": "weapon_ak47"
+                }
+            },
+            {
+                "Title": "M4A1",
+                "Items": {
+                    "Item": "Weapon",
+                    "Name": "weapon_m4a1"
+                }
+            },
+            {
+                "Title": "AUG",
+                "Items": {
+                    "Item": "Weapon",
+                    "Name": "weapon_aug"
+                }
+            },
+            {
+                "Title": "SSG",
+                "Items": {
+                    "Item": "Weapon",
+                    "Name": "weapon_ssg"
+                }
+            }
+        ]
+    }
+]
