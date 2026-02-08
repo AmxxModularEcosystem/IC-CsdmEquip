@@ -17,6 +17,7 @@ env:
   PLUGINS_INI_GENERATE: 0
   DEPS_LIST: |
     AmxxModularEcosystem/ParamsController@1.3.1
+    AmxxModularEcosystem/VipModular@5.0.0-rc1
 
 jobs:
   build:
